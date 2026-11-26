@@ -1,0 +1,5 @@
+{
+  "duration_seconds": 8,
+  "script": "[00:00–00:04] Slow tabletop orbit around the kettle. Preserve the handle silhouette. [00:04–00:08] Cut to the spout catching window light; fade room tone under a soft ceramic tap.",
+  "references": {"images": ["kettle-front.png", "kettle-side.png"], "audio": ["ceramic-tap.wav"]}
+}
